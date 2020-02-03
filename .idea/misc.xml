@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-mover-ribbon-customizing/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-mover-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-mover-without-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-mover-ribbon-customizing-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-consumer-movie-understanding-metadata/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-simple-provider-user/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
